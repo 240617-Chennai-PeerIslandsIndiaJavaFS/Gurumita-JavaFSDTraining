@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestCases.ProjectManagerServiceTest" time="3.872" tests="13" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="22"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\gguru\IdeaProjects\REVTASKMAN\target\test-classes;C:\Users\gguru\IdeaProjects\REVTASKMAN\target\classes;C:\Users\gguru\.m2\repository\com\mysql\mysql-connector-j\8.4.0\mysql-connector-j-8.4.0.jar;C:\Users\gguru\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar;C:\Users\gguru\.m2\repository\ch\qos\logback\logback-classic\1.5.6\logback-classic-1.5.6.jar;C:\Users\gguru\.m2\repository\org\slf4j\slf4j-api\2.1.0-alpha1\slf4j-api-2.1.0-alpha1.jar;C:\Users\gguru\.m2\repository\ch\qos\logback\logback-core\1.5.6\logback-core-1.5.6.jar;C:\Users\gguru\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\gguru\.m2\repository\net\bytebuddy\byte-buddy\1.14.15\byte-buddy-1.14.15.jar;C:\Users\gguru\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\gguru\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\gguru\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0-M2\junit-jupiter-api-5.11.0-M2.jar;C:\Users\gguru\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\gguru\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0-M2\junit-platform-commons-1.11.0-M2.jar;C:\Users\gguru\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="22"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-22\bin"/>
+    <property name="sun.java.command" value="C:\Users\gguru\AppData\Local\Temp\surefire9049189253062212751\surefirebooter-20240712181837502_3.jar C:\Users\gguru\AppData\Local\Temp\surefire9049189253062212751 2024-07-12T18-18-36_924-jvmRun1 surefire-20240712181837502_1tmp surefire_0-20240712181837502_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\gguru\IdeaProjects\REVTASKMAN\target\test-classes;C:\Users\gguru\IdeaProjects\REVTASKMAN\target\classes;C:\Users\gguru\.m2\repository\com\mysql\mysql-connector-j\8.4.0\mysql-connector-j-8.4.0.jar;C:\Users\gguru\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar;C:\Users\gguru\.m2\repository\ch\qos\logback\logback-classic\1.5.6\logback-classic-1.5.6.jar;C:\Users\gguru\.m2\repository\org\slf4j\slf4j-api\2.1.0-alpha1\slf4j-api-2.1.0-alpha1.jar;C:\Users\gguru\.m2\repository\ch\qos\logback\logback-core\1.5.6\logback-core-1.5.6.jar;C:\Users\gguru\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\gguru\.m2\repository\net\bytebuddy\byte-buddy\1.14.15\byte-buddy-1.14.15.jar;C:\Users\gguru\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\gguru\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\gguru\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0-M2\junit-jupiter-api-5.11.0-M2.jar;C:\Users\gguru\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\gguru\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0-M2\junit-platform-commons-1.11.0-M2.jar;C:\Users\gguru\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\gguru"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-04-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-22"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\gguru\IdeaProjects\REVTASKMAN"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\gguru\AppData\Local\Temp\surefire9049189253062212751\surefirebooter-20240712181837502_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="22.0.1+8-16"/>
+    <property name="user.name" value="gguru"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\gguru\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\gguru\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2024.1.3"/>
+    <property name="java.version" value="22.0.1"/>
+    <property name="user.dir" value="C:\Users\gguru\IdeaProjects\REVTASKMAN"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-22\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\PuTTY\;C:\Program Files\HP\HP One Agent;C:\Program Files\Git\cmd;C:\Users\gguru\OneDrive\Documents\apache-maven-3.9.8\bin;C:\Users\gguru\AppData\Local\Programs\Python\Launcher\;C:\Users\gguru\AppData\Local\Microsoft\WindowsApps;C:\Users\gguru\OneDrive\Desktop\Phase 2\PyCharm Community Edition 2023.3.3\bin;;C:\Users\gguru\AppData\Local\Programs\Python\Python312;C:\Users\gguru\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\gguru\AppData\Local\Programs\mongosh\;C:\Users\gguru\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="22.0.1+8-16"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="66.0"/>
+  </properties>
+  <testcase name="testGetAllTasks" classname="TestCases.ProjectManagerServiceTest" time="3.625">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching all tasks
+]]></system-out>
+    <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\gguru\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+SLF4J(I): Connected with provider of type [ch.qos.logback.classic.spi.LogbackServiceProvider]
+]]></system-err>
+  </testcase>
+  <testcase name="testUpdateTask" classname="TestCases.ProjectManagerServiceTest" time="0.025">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Updating a task
+]]></system-out>
+  </testcase>
+  <testcase name="testGetAllClients" classname="TestCases.ProjectManagerServiceTest" time="0.011">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching all clients
+]]></system-out>
+  </testcase>
+  <testcase name="testGetProjectsByClientId" classname="TestCases.ProjectManagerServiceTest" time="0.012">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching projects for client 1
+]]></system-out>
+  </testcase>
+  <testcase name="testAssignTaskToTeamMember" classname="TestCases.ProjectManagerServiceTest" time="0.015">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Assigning task 1 to team member 1
+]]></system-out>
+  </testcase>
+  <testcase name="testAddProject" classname="TestCases.ProjectManagerServiceTest" time="0.009">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Adding a project
+]]></system-out>
+  </testcase>
+  <testcase name="testGetUserById" classname="TestCases.ProjectManagerServiceTest" time="0.008">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching user by ID 1
+]]></system-out>
+  </testcase>
+  <testcase name="testGetAllProjects" classname="TestCases.ProjectManagerServiceTest" time="0.007">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+]]></system-out>
+  </testcase>
+  <testcase name="testGetAvailableTeamMembers" classname="TestCases.ProjectManagerServiceTest" time="0.007">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+]]></system-out>
+  </testcase>
+  <testcase name="testGetTeamMembers" classname="TestCases.ProjectManagerServiceTest" time="0.009">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching team members
+]]></system-out>
+  </testcase>
+  <testcase name="testResetPassword" classname="TestCases.ProjectManagerServiceTest" time="0.007">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Resetting password for user 1
+]]></system-out>
+  </testcase>
+  <testcase name="testGetTasksByUserId" classname="TestCases.ProjectManagerServiceTest" time="0.009">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 1
+]]></system-out>
+  </testcase>
+  <testcase name="testGetAllProjectManagers" classname="TestCases.ProjectManagerServiceTest" time="0.006">
+    <system-out><![CDATA[2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+]]></system-out>
+  </testcase>
+</testsuite>

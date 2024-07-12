@@ -1,0 +1,235 @@
+2024-07-11 06:37:30 INFO  o.e.Service.ProjectManagerService - Added user 12 to project 10
+2024-07-11 06:42:18 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 06:42:41 DEBUG org.example.Service.UserService - Fetching user by ID: 14
+2024-07-11 06:42:58 INFO  org.example.Service.UserService - User updated: ANAND
+2024-07-11 06:44:09 INFO  o.e.Service.ProjectManagerService - Added user 12 to project 10
+2024-07-11 06:44:24 INFO  o.e.Service.ProjectManagerService - Added user 12 to project 10
+2024-07-11 06:52:36 INFO  o.e.Service.ProjectManagerService - Added user 12 to project 10
+2024-07-11 06:52:47 INFO  o.e.Service.ProjectManagerService - Added user 12 to project 10
+2024-07-11 07:08:26 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 07:08:48 WARN  o.e.Service.ProjectManagerService - User 12 is already assigned to project 10
+2024-07-11 07:09:16 WARN  o.e.Service.ProjectManagerService - User 3 is already assigned to project 9
+2024-07-11 07:09:39 ERROR o.e.Service.ProjectManagerService - Error while adding user 3 to project 5: Field 'role_in_project' doesn't have a default value
+2024-07-11 07:10:05 ERROR o.e.Service.ProjectManagerService - Error while adding user 12 to project 1: Field 'role_in_project' doesn't have a default value
+2024-07-11 07:12:59 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 07:17:18 ERROR o.e.Service.ProjectManagerService - Error while adding user 3 to project 7: Parameter index out of range (3 > number of parameters, which is 2).
+2024-07-11 07:21:31 INFO  o.e.Service.ProjectManagerService - Added user 3 to project 5
+2024-07-11 09:36:51 INFO  o.example.Service.TeamMemberService - Fetching tasks for assigned user ID: 1
+2024-07-11 09:36:51 INFO  o.example.Service.TeamMemberService - Successfully fetched tasks for assigned user ID: 1
+2024-07-11 17:10:29 INFO  o.e.Service.ProjectManagerService - Fetching team members
+2024-07-11 17:15:52 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 17:16:14 INFO  org.example.Service.UserService - User added: GURU
+2024-07-11 17:16:35 DEBUG org.example.Service.UserService - Fetching user by ID: 15
+2024-07-11 17:17:15 INFO  org.example.Service.UserService - User updated: GURUMITA NAIDU
+2024-07-11 17:17:36 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 17:18:45 INFO  o.e.Service.ProjectManagerService - Project REV TASK MANAGEMENT added successfully
+2024-07-11 17:37:20 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+2024-07-11 17:37:42 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+2024-07-11 17:37:46 WARN  o.e.Service.ProjectManagerService - User 12 is already assigned to project 10
+2024-07-11 17:37:56 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+2024-07-11 17:38:00 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+2024-07-11 17:38:06 INFO  o.e.Service.ProjectManagerService - Added user 5 to project 5
+2024-07-11 17:40:42 INFO  o.e.Service.ProjectManagerService - Fetching team members
+2024-07-11 18:01:24 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 18:01:41 INFO  org.example.Service.UserService - User added: DFS
+2024-07-11 18:02:03 DEBUG org.example.Service.UserService - Fetching user by ID: 16
+2024-07-11 18:02:26 INFO  org.example.Service.UserService - User updated: GURU
+2024-07-11 18:02:36 DEBUG org.example.Service.UserService - Fetching user by ID: 16
+2024-07-11 18:02:36 INFO  org.example.Service.UserService - User updated: GURU
+2024-07-11 18:03:01 DEBUG org.example.Service.UserService - Fetching user by ID: 15
+2024-07-11 18:03:12 INFO  org.example.Service.UserService - User updated: GURUMITA NAIDU
+2024-07-11 18:04:22 INFO  o.e.Service.ProjectManagerService - Project XYZ added successfully
+2024-07-11 18:08:18 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 18:08:21 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 21:20:02 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 21:25:52 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 21:27:55 INFO  o.e.Service.ProjectManagerService - Project XYZ added successfully
+2024-07-11 21:35:21 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 21:38:03 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 21:38:36 INFO  o.e.Service.ProjectManagerService - Project XYZ added successfully
+2024-07-11 21:40:20 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 21:41:05 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+2024-07-11 21:41:12 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+2024-07-11 21:41:19 INFO  o.e.Service.ProjectManagerService - Added user 15 to project 12
+2024-07-11 22:06:33 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 22:11:43 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 23:08:27 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 23:08:50 DEBUG org.example.Service.UserService - Fetching user by ID: 3
+2024-07-11 23:08:50 INFO  org.example.Service.UserService - User updated: Bob Johnson
+2024-07-11 23:18:27 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 23:18:59 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 23:19:16 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 23:19:42 INFO  o.example.Service.TeamMemberService - Updating task status. Task ID: 1, Status: STARTED
+2024-07-11 23:19:42 WARN  o.example.Service.TeamMemberService - Failed to update task status. Task ID: 1, Status: STARTED
+2024-07-11 23:20:10 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-11 23:20:32 DEBUG org.example.Service.UserService - Fetching user by ID: 10
+2024-07-11 23:20:32 INFO  org.example.Service.UserService - User updated: Bob Johnson
+2024-07-12 09:06:11 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 09:06:41 DEBUG org.example.Service.UserService - Fetching user by ID: 15
+2024-07-12 09:06:41 INFO  org.example.Service.UserService - User updated: GURUMITA NAIDU
+2024-07-12 09:44:50 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 09:44:57 DEBUG org.example.Service.UserService - Fetching user by ID: 3
+2024-07-12 09:44:57 INFO  org.example.Service.UserService - User updated: Bob Johnson
+2024-07-12 12:33:32 DEBUG org.example.Service.UserService - Fetching user by email: sarah.green@example.com
+2024-07-12 12:33:32 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 12:33:32 INFO  org.example.Service.UserService - User deleted with ID: 5
+2024-07-12 12:33:32 DEBUG org.example.Service.UserService - Fetching user by ID: 6
+2024-07-12 12:36:33 DEBUG org.example.Service.UserService - Fetching user by email: sarah.green@example.com
+2024-07-12 12:36:33 INFO  org.example.Service.UserService - User added: Emily Brown
+2024-07-12 12:36:33 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 12:36:33 INFO  org.example.Service.UserService - User updated: Michael Johnson
+2024-07-12 12:36:33 INFO  org.example.Service.UserService - User deleted with ID: 5
+2024-07-12 12:36:33 DEBUG org.example.Service.UserService - Fetching user by ID: 6
+2024-07-12 14:05:56 INFO  o.e.Service.ProjectManagerService - Fetching all clients
+2024-07-12 14:05:56 INFO  o.e.Service.ProjectManagerService - Fetching projects for client 1
+2024-07-12 14:05:56 INFO  o.e.Service.ProjectManagerService - Assigning task 1 to team member 1
+2024-07-12 14:05:56 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+2024-07-12 14:05:56 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+2024-07-12 14:05:56 INFO  o.e.Service.ProjectManagerService - Fetching team members
+2024-07-12 14:05:56 INFO  o.e.Service.ProjectManagerService - Resetting password for user 1
+2024-07-12 16:54:51 DEBUG org.example.Service.UserService - Fetching user by email: sarah.green@example.com
+2024-07-12 16:54:51 INFO  org.example.Service.UserService - User added: Emily Brown
+2024-07-12 16:54:51 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 16:54:51 INFO  org.example.Service.UserService - User updated: Michael Johnson
+2024-07-12 16:54:51 INFO  org.example.Service.UserService - User deleted with ID: 5
+2024-07-12 16:54:51 DEBUG org.example.Service.UserService - Fetching user by ID: 6
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Fetching all tasks
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Updating a task
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Fetching all clients
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Fetching projects for client 1
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Assigning task 1 to team member 1
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Adding a project
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Fetching user by ID 1
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Fetching team members
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Resetting password for user 1
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 1
+2024-07-12 16:55:18 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Fetching all tasks
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Updating a task
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Fetching all clients
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Fetching projects for client 1
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Assigning task 1 to team member 1
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Adding a project
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Fetching user by ID 1
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Fetching team members
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Resetting password for user 1
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 1
+2024-07-12 16:55:39 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 16:56:11 INFO  o.example.Service.TeamMemberService - Updating task status. Task ID: 1, Status: Completed
+2024-07-12 16:56:11 INFO  o.example.Service.TeamMemberService - Successfully updated task status. Task ID: 1, Status: Completed
+2024-07-12 16:56:11 INFO  o.example.Service.TeamMemberService - Fetching projects for user ID: 1
+2024-07-12 16:56:11 INFO  o.example.Service.TeamMemberService - Successfully fetched projects for user ID: 1
+2024-07-12 16:56:11 INFO  o.example.Service.TeamMemberService - Fetching clients for user ID: 1
+2024-07-12 16:56:11 INFO  o.example.Service.TeamMemberService - Successfully fetched clients for user ID: 1
+2024-07-12 16:56:11 INFO  o.example.Service.TeamMemberService - Fetching tasks for assigned user ID: 1
+2024-07-12 16:56:11 INFO  o.example.Service.TeamMemberService - Successfully fetched tasks for assigned user ID: 1
+2024-07-12 16:59:09 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 16:59:13 DEBUG org.example.Service.UserService - Fetching user by ID: 2
+2024-07-12 16:59:13 INFO  org.example.Service.UserService - User updated: Jane Smith
+2024-07-12 16:59:13 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 2
+2024-07-12 17:08:30 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 17:08:41 DEBUG org.example.Service.UserService - Fetching user by ID: 3
+2024-07-12 17:08:41 INFO  org.example.Service.UserService - User updated: Bob Johnson
+2024-07-12 17:08:41 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 3
+2024-07-12 17:25:25 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 17:25:42 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 17:27:15 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 17:35:56 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 17:36:04 DEBUG org.example.Service.UserService - Fetching user by ID: 1
+2024-07-12 17:36:04 INFO  org.example.Service.UserService - User updated: John Doe
+2024-07-12 17:36:04 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 1
+2024-07-12 17:36:39 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 17:37:31 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 17:38:02 DEBUG org.example.Service.UserService - Fetching user by ID: 1
+2024-07-12 17:38:02 INFO  org.example.Service.UserService - User updated: John Doe
+2024-07-12 17:38:02 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 1
+2024-07-12 17:47:36 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 17:47:57 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 17:48:29 INFO  o.e.Service.ProjectManagerService - Adding a project
+2024-07-12 17:49:07 DEBUG org.example.Service.UserService - Fetching user by ID: 4
+2024-07-12 17:49:07 INFO  org.example.Service.UserService - User updated: SMITHI
+2024-07-12 17:49:07 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 4
+2024-07-12 17:59:19 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 17:59:31 DEBUG org.example.Service.UserService - Fetching user by ID: 4
+2024-07-12 17:59:31 INFO  org.example.Service.UserService - User updated: SMITHI
+2024-07-12 17:59:31 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 4
+2024-07-12 18:01:06 INFO  o.e.Service.ProjectManagerService - Fetching team members
+2024-07-12 18:01:31 INFO  o.e.Service.ProjectManagerService - Adding a task
+2024-07-12 18:06:52 DEBUG org.example.Service.UserService - Fetching user by email: sarah.green@example.com
+2024-07-12 18:06:52 INFO  org.example.Service.UserService - User added: Emily Brown
+2024-07-12 18:06:52 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 18:06:52 INFO  org.example.Service.UserService - User updated: Michael Johnson
+2024-07-12 18:06:52 INFO  org.example.Service.UserService - User deleted with ID: 5
+2024-07-12 18:06:52 DEBUG org.example.Service.UserService - Fetching user by ID: 6
+2024-07-12 18:07:13 INFO  o.example.Service.TeamMemberService - Updating task status. Task ID: 1, Status: Completed
+2024-07-12 18:07:13 INFO  o.example.Service.TeamMemberService - Successfully updated task status. Task ID: 1, Status: Completed
+2024-07-12 18:07:13 INFO  o.example.Service.TeamMemberService - Fetching projects for user ID: 1
+2024-07-12 18:07:13 INFO  o.example.Service.TeamMemberService - Successfully fetched projects for user ID: 1
+2024-07-12 18:07:13 INFO  o.example.Service.TeamMemberService - Fetching clients for user ID: 1
+2024-07-12 18:07:13 INFO  o.example.Service.TeamMemberService - Successfully fetched clients for user ID: 1
+2024-07-12 18:07:13 INFO  o.example.Service.TeamMemberService - Fetching tasks for assigned user ID: 1
+2024-07-12 18:07:13 INFO  o.example.Service.TeamMemberService - Successfully fetched tasks for assigned user ID: 1
+2024-07-12 18:07:29 INFO  o.e.Service.ProjectManagerService - Fetching user by ID 1
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Fetching all tasks
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Updating a task
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Fetching all clients
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Fetching projects for client 1
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Assigning task 1 to team member 1
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Adding a project
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Fetching user by ID 1
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Fetching team members
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Resetting password for user 1
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 1
+2024-07-12 18:07:48 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Fetching all tasks
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Updating a task
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Fetching all clients
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Fetching projects for client 1
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Assigning task 1 to team member 1
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Adding a project
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Fetching user by ID 1
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Fetching team members
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Resetting password for user 1
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 1
+2024-07-12 18:09:16 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching all tasks
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Updating a task
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching all clients
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching projects for client 1
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Assigning task 1 to team member 1
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Adding a project
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching user by ID 1
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching all projects
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching available team members
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching team members
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Resetting password for user 1
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching tasks by user ID 1
+2024-07-12 18:18:42 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 18:18:42 INFO  o.example.Service.TeamMemberService - Updating task status. Task ID: 1, Status: Completed
+2024-07-12 18:18:42 INFO  o.example.Service.TeamMemberService - Successfully updated task status. Task ID: 1, Status: Completed
+2024-07-12 18:18:42 INFO  o.example.Service.TeamMemberService - Fetching projects for user ID: 1
+2024-07-12 18:18:42 INFO  o.example.Service.TeamMemberService - Successfully fetched projects for user ID: 1
+2024-07-12 18:18:42 INFO  o.example.Service.TeamMemberService - Fetching clients for user ID: 1
+2024-07-12 18:18:42 INFO  o.example.Service.TeamMemberService - Successfully fetched clients for user ID: 1
+2024-07-12 18:18:42 INFO  o.example.Service.TeamMemberService - Fetching tasks for assigned user ID: 1
+2024-07-12 18:18:42 INFO  o.example.Service.TeamMemberService - Successfully fetched tasks for assigned user ID: 1
+2024-07-12 18:18:44 DEBUG org.example.Service.UserService - Fetching user by email: sarah.green@example.com
+2024-07-12 18:18:44 INFO  org.example.Service.UserService - User added: Emily Brown
+2024-07-12 18:18:44 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 18:18:44 INFO  org.example.Service.UserService - User updated: Michael Johnson
+2024-07-12 18:18:44 INFO  org.example.Service.UserService - User deleted with ID: 5
+2024-07-12 18:18:44 DEBUG org.example.Service.UserService - Fetching user by ID: 6
+2024-07-12 18:20:44 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 18:21:13 INFO  o.e.Service.ProjectManagerService - Fetching all project managers
+2024-07-12 18:21:51 INFO  o.e.Service.ProjectManagerService - Adding a project
+2024-07-12 18:24:06 DEBUG org.example.Service.UserService - Fetching all users
+2024-07-12 18:24:28 INFO  o.example.Service.TeamMemberService - Updating task status. Task ID: 1, Status: IN_PROGRESS
+2024-07-12 18:24:28 WARN  o.example.Service.TeamMemberService - Failed to update task status. Task ID: 1, Status: IN_PROGRESS
